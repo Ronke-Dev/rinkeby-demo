@@ -29,3 +29,10 @@ https://rinkeby.etherscan.io/tx/0x30df707b3c1f807c4d9a3ea126ac2abc56c875acc14d3b
  
  
  both of these have been launched on the opensea testnet
+ 
+ 
+ {
+    "name": "Your Collection #2",
+    "description": "Remember to replace this description",
+    "image": "ipfs://Qmf9sZ3cKyC7CAK3psuumQV38sbkbXuQtE4BwbeXPm974q/2.png",
+    "dna": "41e0168ba6de603d5d6f9a24bb7b7c82631cd900",
