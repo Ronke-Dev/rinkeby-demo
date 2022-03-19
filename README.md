@@ -18,21 +18,16 @@ https://rinkeby.etherscan.io/tx/0x2ca871960ba9a6e510b10cc80f090be527968189074c2f
 https://rinkeby.etherscan.io/tx/0x30df707b3c1f807c4d9a3ea126ac2abc56c875acc14d3b3bd4bce872f40f64e3 this shows the transfer of 1000 tokens
 
 **metadata structure  ** {"name": "IPFS_TEST - bwfEO5zmwi",
-                    "image": "https://ipfs.io/ipfs/Qmf9sZ3cKyC7CAK3psuumQV38sbkbXuQtE4BwbeXPm974q/1.png"
+                    "image": “ipfs.io/ipfs/Qmf9sZ3cKyC7CAK3psuumQV38sbkbXuQtE4BwbeXPm974q/1.png”
                     "description": "Your Collection #1",
                      }
                      
                     
  metadata structure: {"name": "IPFS_TEST - bwfEO5zmwi",
-                     "image": "https://ipfs.io/ipfs/Qmf9sZ3cKyC7CAK3psuumQV38sbkbXuQtE4BwbeXPm974q/2.png",
+                     "image": "ipfs.io/ipfs/Qmf9sZ3cKyC7CAK3psuumQV38sbkbXuQtE4BwbeXPm974q/2.png",
                       "description": "Your Collection #2"}
  
  
  both of these have been launched on the opensea testnet
  
  
- {
-    "name": "Your Collection #2",
-    "description": "Remember to replace this description",
-    "image": "ipfs://Qmf9sZ3cKyC7CAK3psuumQV38sbkbXuQtE4BwbeXPm974q/2.png",
-    "dna": "41e0168ba6de603d5d6f9a24bb7b7c82631cd900",
